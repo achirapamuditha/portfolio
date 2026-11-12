@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio repository! This is a fast, animated and fully responsive website that showcases my work as a Software Engineering undergraduate, with projects across full-stack development, IoT and machine learning.
 
-🌐 **Live site:** https://YOUR-LINK.vercel.app
+🌐 **Live site:** https://YOUR-LINK.vercel.app](https://portfolio-kappa-nine-3fsdtcmtaa.vercel.app/
 
 ## 🚀 Professional Summary
 I am a Software Engineering undergraduate at the National Institute of Business Management (NIBM), Sri Lanka, studying BSc (Hons) Computer Science with Software Engineering (2024 - present). I enjoy turning ideas into working prototypes, from microservices and web apps to ESP32 sensor dashboards and machine learning tools. I am looking for internship and training opportunities in software development, IT operations and application support.
