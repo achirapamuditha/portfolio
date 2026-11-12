@@ -49,7 +49,7 @@ Nine projects with filter buttons (All, Web and Systems, IoT, AI and ML, Algorit
 
 ### 🧰 Skills and Certificates
 - Icon tiles and categorized skill cards
-- Docker (KodeKloud), Introduction to Istio (Linux Foundation) and ITIL 4 Fundamentals (Great Learning Academy)
+- Docker (KodeKloud), Introduction to Istio (Linux Foundation), ITIL 4 Fundamentals (Great Learning Academy), Networking Basics (Cisco) and Developing Secure Software, LFD121 (Linux Foundation)
 
 ### 🌟 Journey and Beyond Code
 - Education timeline
